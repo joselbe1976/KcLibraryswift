@@ -50,5 +50,8 @@ public struct KeyChainKC {
     }
 
     
+    private func test() -> String {
+        return "Hello World Test"
+    }
     
 }
